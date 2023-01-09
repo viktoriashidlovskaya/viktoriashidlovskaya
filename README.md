@@ -1,8 +1,7 @@
 [![Header](https://github.com/viktoriashidlovskaya/viktoriashidlovskaya/blob/main/assets/%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0.jpg)](https://www.linkedin.com/in/viktoria-shidlovskaya/)
 
 ## I'm a QA engineer with hands-on experience in testing mobile and web applications. 
-## 
-<br/>
+
 
 ## Examples of my work:
 <br/>
@@ -15,7 +14,7 @@
 - [Test result report](https://drive.google.com/file/d/1QpfINNTKrq1aQIosafHSLr3gCJBhSC5x/view?usp=share_link)
 
 ### Testing API on the example of tesing [chucknorris.io](https://api.chucknorris.io/)
-- [Postman Collection](https://drive.google.com/file/d/1-B4fmICJ3k0UL3cPGhk04157pMPSO7Oe/view?usp=sharing)
+- [Postman Collection](https://github.com/viktoriashidlovskaya/postman_collection)
 <br/>
 <br/>
 

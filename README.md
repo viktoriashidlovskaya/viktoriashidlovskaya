@@ -2,9 +2,27 @@
 
 ## I'm a QA engineer with hands-on experience in testing mobile and web applications. 
 ## 
-Examples of my work
+<br/>
+
+## Examples of my work:
+<br/>
+
+### Testing documentation on the example of a three-hour tesing [qa.yotec.net](http://qa.yotec.net/)
+- [Check list](https://drive.google.com/file/d/1emaoZmhb6KsWlRLQVpRRIKxDI4tUXGMb/view?usp=share_link)
+- [Test Suite for Log in](https://drive.google.com/file/d/1X-dDsNaaG7c-weFhAQ1lFv8dlibFamz4/view?usp=share_link)
+- [Bug Report general](https://drive.google.com/file/d/1Zb1nKwshs8IbWcjkkOlcXK12Msda87Y1/view?usp=share_link)
+- [Bug Report for "Location search dealer"](https://drive.google.com/file/d/1QgtgyUeEJLoS5Mf4CgsNRf9fNOnwQ1B4/view?usp=share_link)
+- [Test result report](https://drive.google.com/file/d/1QpfINNTKrq1aQIosafHSLr3gCJBhSC5x/view?usp=share_link)
+
+### Testing API on the example of tesing [chucknorris.io](https://api.chucknorris.io/)
+- [Postman Collection](https://drive.google.com/file/d/1-B4fmICJ3k0UL3cPGhk04157pMPSO7Oe/view?usp=sharing)
+<br/>
+<br/>
+
 
 ## Languages and Tools
+<br/>
+
 [![Header](https://img.shields.io/badge/English_B1/B2-86a989?style=for-the-badge&logo=&logoColor=136be1)](https://drive.google.com/file/d/1m794rbws-4CqFpi0pENrblUHQB2pS7PL/view?usp=share_link)
 ![Header](https://img.shields.io/badge/Jira-86a989?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestRail-86a989?style=for-the-badge&logo=&logoColor=71b556)
@@ -21,7 +39,7 @@ Examples of my work
 
 
 
-Contact me
+## Contact me
 
 [![Header](https://img.shields.io/badge/Telegram-83cb95?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/shidlovskaya_viktoria)
 

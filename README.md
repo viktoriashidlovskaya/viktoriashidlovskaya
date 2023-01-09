@@ -22,3 +22,7 @@ Examples of my work
 
 
 Contact me
+
+[![Header](https://img.shields.io/badge/Telegram-83cb95?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/shidlovskaya_viktoria)
+
+[![Header](https://img.shields.io/badge/Linkedin-83cb95?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/viktoria-shidlovskaya/)

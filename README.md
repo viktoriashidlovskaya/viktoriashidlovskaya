@@ -2,7 +2,6 @@
 
 ## I'm a QA engineer with hands-on experience in testing mobile and web applications. 
 
-
 ## Examples of my work:
 <br/>
 
